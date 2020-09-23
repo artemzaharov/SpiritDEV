@@ -1,0 +1,13 @@
+asgiref==3.2.10
+Django==3.0.10
+django-djconfig==0.10.0
+django-haystack==3.0
+django-infinite-scroll-pagination==1.1.0
+django-spirit==0.10.1
+mistune==0.8.4
+olefile==0.46
+Pillow==7.2.0
+pkg-resources==0.0.0
+pytz==2020.1
+sqlparse==0.3.1
+Whoosh==2.7.4
